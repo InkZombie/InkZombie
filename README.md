@@ -1,5 +1,4 @@
-# Paula Nunez | ![Master Control](https://img.shields.io/badge/-%E2%96%A9-141414?style=flat-square) Intelligence Architect & Serial Founder
-
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&background=141414&width=435&lines=Paula+Nunez;Intelligence+Architect;Master+Control+Engineer;Cracked+Founder)
 **Founder Cracked @ [W34P-Foundation](https://github.com/W34P-Foundation)** • **Founder @ AMY CERT** • **Founder @ The Ink Zombie**
 
 I am a self-taught builder who thrives in the "messy" 0-to-1 phase. Whether I'm architecting deterministic intelligence protocols or standing up community emergency response systems, my focus is always on building high-utility infrastructure from the ground up.
