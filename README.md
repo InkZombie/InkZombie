@@ -12,7 +12,7 @@ I am a self-taught builder who thrives in the "messy" 0-to-1 phase. Whether I'm 
 * **The Ink Zombie**: A custom print shop focused on the intersection of design, physical production, and scalable entrepreneurship.
 
 ## ![Pixel Tech](https://img.shields.io/badge/-%E2%96%A3-141414?style=flat-square) Technical Obsession: Abyssian-XIQ
-![Dali Clock](https://raw.githubusercontent.com/InkZombie/InkZombie/main/assets/dali-clock.svg)
+[![Live Dali Clock](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=30&duration=4000&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=THE+TIME+IS+STOCHASTIC;%{time};DETERMINISTIC+EXECUTION+ACTIVE)](https://github.com/InkZombie/InkZombie)
 
 Currently bridging the gap between stochastic LLM reasoning and deterministic execution for disaster relief. I build the "connective tissue" that allows AI agents to navigate high-latency, high-stakes environments—like emergency response—where precision is not optional.
 
