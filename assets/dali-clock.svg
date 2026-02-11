@@ -1,0 +1,20 @@
+<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes melt {
+      0%, 100% { d: path("M40,20 Q60,10 80,20 L80,80 Q60,90 40,80 Z"); fill: #fff; }
+      50% { d: path("M35,25 Q60,40 85,25 L75,85 Q60,70 45,85 Z"); fill: #ff0055; }
+    }
+    .digit {
+      animation: melt 3s infinite ease-in-out;
+      filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));
+    }
+    text {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      fill: white;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#141414" rx="10"/>
+  <path class="digit" d="M40,20 Q60,10 80,20 L80,80 Q60,90 40,80 Z" />
+  <text x="100" y="60" font-size="24" text-anchor="middle">MORPHING...</text>
+</svg>
