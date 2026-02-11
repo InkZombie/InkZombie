@@ -7,12 +7,13 @@ I am a self-taught builder who thrives in the "messy" 0-to-1 phase. Whether I'm 
 ---
 
 ## ![Pixel Foundations](https://img.shields.io/badge/-%E2%96%A4-141414?style=flat-square) My Foundations
-* **[W34P-Foundation](https://github.com/W34P-Foundation)**: A non-profit dedicated to open-source intelligence frameworks. Lead architect of the **XIQ (Extended Intelligence Quotient)** protocol.
-* **AMY CERT**: Founded and led a Community Emergency Response Team, managing logistics, rapid response protocols, and community safety.
-* **The Ink Zombie**: A custom print shop focused on the intersection of design, physical production, and entrepreneurship.
 
-### Technical Obsession: Abyssian-XIQ
-Currently bridging the gap between stochastic LLM reasoning and deterministic execution. I build the "connective tissue" that allows AI agents to navigate complex product design environments with precision.
+* **[W34P-Foundation](https://github.com/W34P-Foundation)**: A non-profit specializing in disaster response and relief. We architect open-source intelligence frameworks to optimize high-stakes resource allocation and logistics during crises.
+* **AMY CERT**: Founded and led a Community Emergency Response Team. Managed rapid response protocols, frontline logistics, and community safety during localized emergencies.
+* **The Ink Zombie**: A custom print shop focused on the intersection of design, physical production, and scalable entrepreneurship.
+
+## ![Pixel Tech](https://img.shields.io/badge/-%E2%96%A3-141414?style=flat-square) Technical Obsession: Abyssian-XIQ
+Currently bridging the gap between stochastic LLM reasoning and deterministic execution for disaster relief. I build the "connective tissue" that allows AI agents to navigate high-latency, high-stakes environments—like emergency response—where precision is not optional..
 
 ---
 
