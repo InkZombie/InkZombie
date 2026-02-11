@@ -11,10 +11,10 @@ I am a self-taught builder who thrives in the "messy" 0-to-1 phase. Whether I'm 
 * **AMY CERT**: Founded and led a Community Emergency Response Team. Managed rapid response protocols, frontline logistics, and community safety during localized emergencies.
 * **The Ink Zombie**: A custom print shop focused on the intersection of design, physical production, and scalable entrepreneurship.
 
-## ![Pixel Tech](https://img.shields.io/badge/-%E2%96%A3-141414?style=flat-square) Technical Obsession: Abyssian-XIQ
+## ![Pixel Tech](https://img.shields.io/badge/-%E2%96%A3-141414?style=flat-square) Technical Obsession: Everything I don't know
 <p align="center">
   <a href="https://github.com/InkZombie/InkZombie">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=5000&pause=1500&color=FF0055&center=true&vCenter=true&width=1000&lines=%22Play+long-term+games+with+long-term+people.%22+-+Naval;%22Competition+is+for+losers.+Build+a+monopoly.%22+-+Peter+Thiel;%22You+don't+know+me,+son.+You+don't+know+me.%22+-+Goggins;%22Do+things+that+don't+scale.%22+-+Paul+Graham;%22Intelligence+without+ambition+is+a+bird+without+wings.%22+-+Dali" alt="Mindset Stream" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=18&duration=5000&pause=2000&color=FF0055&center=true&vCenter=true&width=1300&lines=%22Play+long-term+games+with+long-term+people.%22+-+Naval;%22Competition+is+for+losers.+Build+a+monopoly.%22+-+Peter+Thiel;%22You+have+to+be+relentless+in+your+pursuit+of+growth.%22+-+Andrew+Chen;%22Software+is+eating+the+world.%22+-+Marc+Andreessen;%22The+Struggle+is+when+you+don't+know+why+you+don't+quit.%22+-+Ben+Horowitz;%22It's+the+best+thing+to+try+to+do+something+larger+than+yourself.%22+-+Ben+Horowitz;%22Unplanned+results+don't+mean+it's+useless.%22+-+Thomas+Edison;%22Do+things+that+don't+scale.%22+-+Paul+Graham;%22You+don't+know+me,+son.+You+don't+know+me.%22+-+Goggins" alt="Mindset Stream" />
   </a>
 </p>
 
