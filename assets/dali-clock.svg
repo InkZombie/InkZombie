@@ -1,20 +1,113 @@
-<svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes melt {
-      0%, 100% { d: path("M40,20 Q60,10 80,20 L80,80 Q60,90 40,80 Z"); fill: #fff; }
-      50% { d: path("M35,25 Q60,40 85,25 L75,85 Q60,70 45,85 Z"); fill: #ff0055; }
+    @font-face {
+      font-family: 'GlitchFont';
+      src: url('https://fonts.gstatic.com/s/pressstart2p/v13/e3t4euO8dW-3_JyNwHHy1y1k8.ttf') format('truetype'); /* Example glitch-like font */
     }
-    .digit {
-      animation: melt 3s infinite ease-in-out;
-      filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));
-    }
-    text {
-      font-family: 'Courier New', Courier, monospace;
+
+    .glitch-text {
+      font-family: 'GlitchFont', monospace;
+      font-size: 48px;
       font-weight: bold;
-      fill: white;
+      fill: #e0e0e0; /* Light grey for the main text */
+      text-anchor: middle;
+      alignment-baseline: middle;
+    }
+
+    /* Main glitch animation */
+    .glitch-effect {
+      animation: glitch-anim 2s infinite;
+      fill: #ff00ff; /* Magenta for glitch layers */
+      opacity: 0.7;
+    }
+
+    .glitch-effect--2 {
+      animation: glitch-anim 1.5s infinite reverse;
+      fill: #00ffff; /* Cyan for glitch layers */
+      opacity: 0.7;
+    }
+
+    /* Keyframes for glitch animation */
+    @keyframes glitch-anim {
+      0% {
+        transform: translate(0);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+      }
+      10% {
+        transform: translate(-2px, 2px);
+        clip-path: polygon(0 15%, 100% 15%, 100% 30%, 0 30%);
+      }
+      20% {
+        transform: translate(2px, -2px);
+        clip-path: polygon(0 45%, 100% 45%, 100% 60%, 0 60%);
+      }
+      30% {
+        transform: translate(-3px, 3px);
+        clip-path: polygon(0 75%, 100% 75%, 100% 90%, 0 90%);
+      }
+      40% {
+        transform: translate(1px, -1px);
+        clip-path: polygon(0 5%, 100% 5%, 100% 20%, 0 20%);
+      }
+      50% {
+        transform: translate(0);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+      }
+      60% {
+        transform: translate(3px, -3px);
+        clip-path: polygon(0 50%, 100% 50%, 100% 65%, 0 65%);
+      }
+      70% {
+        transform: translate(-2px, 2px);
+        clip-path: polygon(0 10%, 100% 10%, 100% 25%, 0 25%);
+      }
+      80% {
+        transform: translate(1px, -1px);
+        clip-path: polygon(0 80%, 100% 80%, 100% 95%, 0 95%);
+      }
+      90% {
+        transform: translate(-1px, 1px);
+        clip-path: polygon(0 35%, 100% 35%, 100% 50%, 0 50%);
+      }
+      100% {
+        transform: translate(0);
+        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+      }
+    }
+
+    /* Scanline effect */
+    .scanlines {
+      fill: none;
+      stroke: rgba(0, 0, 0, 0.3);
+      stroke-width: 2;
+      pointer-events: none;
     }
   </style>
-  <rect width="100%" height="100%" fill="#141414" rx="10"/>
-  <path class="digit" d="M40,20 Q60,10 80,20 L80,80 Q60,90 40,80 Z" />
-  <text x="100" y="60" font-size="24" text-anchor="middle">MORPHING...</text>
+
+  <rect width="300" height="300" fill="#111" />
+
+  <circle cx="150" cy="150" r="130" fill="none" stroke="#333" stroke-width="5" />
+
+  <text x="150" y="150" class="glitch-text glitch-effect">12:00</text>
+  <text x="150" y="150" class="glitch-text glitch-effect--2">12:00</text>
+
+  <text x="150" y="150" class="glitch-text">12:00</text>
+
+  <g class="scanlines">
+    <line x1="0" y1="10" x2="300" y2="10" />
+    <line x1="0" y1="30" x2="300" y2="30" />
+    <line x1="0" y1="50" x2="300" y2="50" />
+    <line x1="0" y1="70" x2="300" y2="70" />
+    <line x1="0" y1="90" x2="300" y2="90" />
+    <line x1="0" y1="110" x2="300" y2="110" />
+    <line x1="0" y1="130" x2="300" y2="130" />
+    <line x1="0" y1="150" x2="300" y2="150" />
+    <line x1="0" y1="170" x2="300" y2="170" />
+    <line x1="0" y1="190" x2="300" y2="190" />
+    <line x1="0" y1="210" x2="300" y2="210" />
+    <line x1="0" y1="230" x2="300" y2="230" />
+    <line x1="0" y1="250" x2="300" y2="250" />
+    <line x1="0" y1="270" x2="300" y2="270" />
+    <line x1="0" y1="290" x2="300" y2="290" />
+  </g>
 </svg>
