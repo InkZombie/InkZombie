@@ -1,6 +1,6 @@
 # Paula Nunez | ![Master Control](https://img.shields.io/badge/-%E2%96%A9-141414?style=flat-square) Intelligence Architect & Serial Founder
 
-**Founder @ [W34P-Foundation](https://github.com/W34P-Foundation)** • **Founder @ AMY CERT** • **Founder @ The Ink Zombie**
+**Founder Cracked @ [W34P-Foundation](https://github.com/W34P-Foundation)** • **Founder @ AMY CERT** • **Founder @ The Ink Zombie**
 
 I am a self-taught builder who thrives in the "messy" 0-to-1 phase. Whether I'm architecting deterministic intelligence protocols or standing up community emergency response systems, my focus is always on building high-utility infrastructure from the ground up.
 
@@ -20,6 +20,7 @@ Currently bridging the gap between stochastic LLM reasoning and deterministic ex
 ## ![Pixel Stats](https://img.shields.io/badge/-%E2%96%A0-141414?style=flat-square) The Stats
 * **Experience**: 6 years in high-growth startups (Employee #25 ➡️ 300).
 * **Foundational Impact**: Founder of [W34P-Foundation](https://github.com/W34P-Foundation), AMY CERT, and The Ink Zombie.
+* **Mindset**: ![Cracked](https://img.shields.io/badge/Status-CRACKED-141414?style=for-the-badge)
 
 
 ## ![Pixel Tools](https://img.shields.io/badge/-%E2%96%A3-141414?style=flat-square) Technical Stack & Tooling
