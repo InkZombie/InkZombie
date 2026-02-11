@@ -1,4 +1,4 @@
-# Paula Nunez | Serial Founder & Intelligence Architect 🛠️
+# Paula Nunez | ![Master Control](https://img.shields.io/badge/-%E2%96%A9-141414?style=flat-square) Intelligence Architect & Serial Founder
 
 **Founder @ [W34P-Foundation](https://github.com/W34P-Foundation)** • **Founder @ AMY CERT** • **Founder @ The Ink Zombie**
 
