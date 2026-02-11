@@ -13,10 +13,8 @@ I am a self-taught builder who thrives in the "messy" 0-to-1 phase. Whether I'm 
 
 ## ![Pixel Tech](https://img.shields.io/badge/-%E2%96%A3-141414?style=flat-square) Technical Obsession: Abyssian-XIQ
 <p align="center">
-  <img src="https://github-readme-clock.vercel.app/api?time=HH:mm:ss&color=ff0055&background=141414&timezone=America/New_York" alt="Live Clock" />
-  <br/>
   <a href="https://github.com/InkZombie/InkZombie">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=4500&pause=1500&color=FF0055&center=true&vCenter=true&width=1100&lines=%22Intelligence+without+ambition+is+a+bird+without+wings.%22+-+Dali;%22The+best+product+founders+are+often+the+messiest.%22+-+Andrew+Chen;%22Hard+things+are+hard+because+there+are+no+easy+recipes.%22+-+Ben+Horowitz" alt="Alpha Quotes" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=20&duration=5000&pause=1500&color=FF0055&center=true&vCenter=true&width=1000&lines=%22Play+long-term+games+with+long-term+people.%22+-+Naval;%22Competition+is+for+losers.+Build+a+monopoly.%22+-+Peter+Thiel;%22You+don't+know+me,+son.+You+don't+know+me.%22+-+Goggins;%22Do+things+that+don't+scale.%22+-+Paul+Graham;%22Intelligence+without+ambition+is+a+bird+without+wings.%22+-+Dali" alt="Mindset Stream" />
   </a>
 </p>
 
